@@ -25,3 +25,5 @@ tags
 /mruby-source-*.gem
 doc/api
 .yardoc
+
+xcuserdata
